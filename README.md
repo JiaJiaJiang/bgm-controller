@@ -14,7 +14,7 @@
 
 如果需要启动开发服务器，需要在执行`npm install`之后执行`npm run dev`，然后根据控制台中显示的端口访问这个项目页面。
 
-在线示例：[https://jiajiajiang.github.io/bgm-controller/](https://jiajiajiang.github.io/bgm-controller/)
+在线示例：[https://jiajiajiang.github.io/bgm-controller/dist/](https://jiajiajiang.github.io/bgm-controller/dist/)
 
 ## 音频源说明
 
