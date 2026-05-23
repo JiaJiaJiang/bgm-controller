@@ -8,6 +8,14 @@
 
 支持导入导出json格式配置文件，并且所做配置会直接自动保存在localStorage中。（json直接利用vue的option api形式的数据对象存储特性导出和覆盖设置数据）
 
+## 使用
+
+这是一个静态页面项目，你可以把dist目录中的所有内容拷贝到任何web服务中加载即可。
+
+如果需要启动开发服务器，需要在执行`npm install`之后执行`npm run dev`，然后根据控制台中显示的端口访问这个项目页面。
+
+在线示例：[https://jiajiajiang.github.io/bgm-controller/](https://jiajiajiang.github.io/bgm-controller/)
+
 ## 音频源说明
 
 场景中的音频源需要填入有效的音频绝对地址，比如 "https://luojia.me/a.mp3" ，或者如果你把音频放在了项目的"public/audios"目录中（开发模式启动的vite服务）或者"dist/audios"目录中（直接使用dist中的静态页面），那么可以填写相对地址"/audios/a.mp3"即可加载音频。

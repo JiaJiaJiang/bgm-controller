@@ -66,7 +66,7 @@ function onOverlayClick(e) {
         <section>
           <h4>项目地址</h4>
           <p class="github-link">
-            GitHub: <a href="https://github.com/your-username/bgm-controller" target="_blank" rel="noopener">https://github.com/your-username/bgm-controller</a>
+            GitHub: <a href="https://github.com/JiaJiaJiang/bgm-controller" target="_blank" rel="noopener">https://github.com/JiaJiaJiang/bgm-controller</a>
           </p>
         </section>
       </div>
